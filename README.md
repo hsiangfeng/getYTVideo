@@ -13,6 +13,7 @@
 - 是否下載純粹的音樂檔案 or 影音檔案(y/n)
 
 Youtube 播放清單測試用網址：[https://www.youtube.com/watch?v=wdH26D8Ssww&list=PLg_r40S5jeMIvAaq9OZweLCx8_N1OxO_Q](https://www.youtube.com/watch?v=wdH26D8Ssww&list=PLg_r40S5jeMIvAaq9OZweLCx8_N1OxO_Q)
+
 單一 Youtube 下載網址：[https://www.youtube.com/watch?v=wdH26D8Ssww](https://www.youtube.com/watch?v=wdH26D8Ssww&list=PLg_r40S5jeMIvAaq9OZweLCx8_N1OxO_Q)
 
 下載完畢之後將會依照當下下載的時間建立一個新資料夾，並放在該資料夾下。
