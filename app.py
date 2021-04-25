@@ -1,12 +1,9 @@
 #!/usr/bin/python3
+
 from pytube import Playlist, YouTube
 import re, os, ssl, time
 
 ssl._create_default_https_context = ssl._create_unverified_context
-
-# 測試網址
-# https://www.youtube.com/watch?v=wdH26D8Ssww&list=PLg_r40S5jeMIvAaq9OZweLCx8_N1OxO_Q
-# https://www.youtube.com/watch?v=EWdNhA5prXQ&list=PLRhWUdOnZHklr5GcNBO7dDsTspk85M8eH
 
 url = str(input('請輸入你要下載的影片網址 => '))
 
